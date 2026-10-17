@@ -32,7 +32,9 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
 
         {/* Dynamic Workspace Container */}
         <main className="relative pt-16 w-full flex-1 bg-background">
-          {children}
+          <div className="w-full max-w-[1720px] mx-auto">
+            {children}
+          </div>
         </main>
       </div>
     </div>
