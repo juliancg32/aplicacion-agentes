@@ -1,0 +1,6 @@
+{
+  "name": "MultiAgent Negotiation - Consenso Presupuestal Autónomo",
+  "description": "Plataforma corporativa de consenso presupuestal y orquestación multiagente mediante teoría de juegos, equilibrio de Nash y trazabilidad criptográfica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
